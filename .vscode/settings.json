@@ -1,0 +1,13 @@
+{
+	"vetur.format.options.tabSize": 4,
+	"vetur.format.options.useTabs": true,
+	"vetur.format.defaultFormatter.html": "prettyhtml",
+	"vetur.format.defaultFormatter.css": "none",
+	"vetur.format.defaultFormatter.postcss": "none",
+	"files.associations": {
+		"*.css": "vue-postcss"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "octref.vetur"
+	},
+}
